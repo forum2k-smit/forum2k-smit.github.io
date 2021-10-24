@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: forum2k-smit.github.io
+Token: b85986d9a1e5492dd34c5bdbdb92af754439b71681a1c2d4ef0372ceec50e751
