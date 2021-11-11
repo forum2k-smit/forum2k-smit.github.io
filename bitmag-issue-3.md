@@ -5,4 +5,4 @@ permalink: /forum2k-bitmag-oct21/
 published: true
 ---
 
-<iframe src="https://drive.google.com/file/d/1ZysBk6iUPXw4s5Z5CzZKZeT9I6y8KXy8/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1QnFfMEr5L-XGz3D1F38_AKdWnYKBRsFw/preview" style="width:98vw;min-height:70vh;" allow="autoplay"></iframe>
