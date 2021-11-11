@@ -7,13 +7,13 @@ published: true
 
 > Joined Linkedin Party
 
-![Joined Linkedin Party](https://forum2k-smit.github.io/images/bitmag-3-cover.png)
 
 
-Hey folks, from the Department of Information Technology, we are here with the new edition of Bi-Annual Departmental Magazine Bitmag.  We are glad to inform you that the third issue of the Forum2k Bitmag OCT'21 Edition is here for you to read, many of you have contributed for Bitmag, and hence we have compiled your works for your mates and teachers to see.<br>
+![Joined Linkedin Party](https://img-cdn.inc.com/image/upload/w_1920,h_1080,c_fill/images/panoramic/getty_1235690999_2000133020009280172_d3xdby.jpg)
+
+
+Forum2k has now an official page on LinkedIn. You can follow it on https://bit.ly/f2k-linkedin<br> 
 <br>
-So, what are you waiting for? enjoy your reading, Have a break, Have a Bitmag yaar !!! <br>
-<br>
-
-F2K Bitmag OCT'21 : [Read Forum2k Bitmag OCT'21](https://bit.ly/f2k-bitmag-3)<br>
-Write us at [Write us at forum2k.deptit.smit@gmail.com](mailto:forum2k.deptit.smit@gmail.com)<br>
+Follow updates on: https://forum2k-smit.github.io/<br>
+Our Linktree: https://linktr.ee/forum2k<br>
+Our email : forum2k.deptit.smit@gmail.com
